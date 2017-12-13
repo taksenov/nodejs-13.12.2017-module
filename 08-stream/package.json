@@ -1,0 +1,16 @@
+{
+  "name": "08-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-stream-read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.12",
+    "mkdirp": "^0.5.1"
+  }
+}
